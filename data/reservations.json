@@ -1,0 +1,34 @@
+[
+  {
+    "id": "r_mnd3mg0a_guswj6",
+    "publicCode": "317",
+    "createdAt": 1774869750154,
+    "expiresAt": null,
+    "confirmed": true,
+    "modified": false,
+    "modifiedAt": 0,
+    "items": [
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "r_mndldjgb_4hlugs",
+    "publicCode": "120",
+    "createdAt": 1774899567803,
+    "expiresAt": null,
+    "confirmed": true,
+    "modified": false,
+    "modifiedAt": 0,
+    "items": [
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  }
+]

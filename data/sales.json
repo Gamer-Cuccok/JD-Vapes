@@ -1,0 +1,1595 @@
+[
+  {
+    "id": "s_79c8cfe8642e_19b6b54bbb9",
+    "date": "2025-12-29",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_2ff9b502a78a2_19b4e18a6e7",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_e0e5c07ed90bc8_19b8257f2c8",
+    "date": "2026-01-03",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_d302bd1ff05258_19b84a9568b",
+    "date": "2026-01-03",
+    "name": "B. Roli Főnöke",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_568389f50aa19_19b4d718932",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_c9b37b233bdb5_19b4dbb80eb",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_097bca70d2a62_19b84f5e5d2",
+    "date": "2026-01-03",
+    "name": "E. Tamás és E. Viktor",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_bb90038d7199d8_19b4e1762ba",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_c9b37b233bdb5_19b4dbb80eb",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_0a6749546bf23_19b85b520f7",
+    "date": "2026-01-03",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_b3cbd438297bf_19b88ecd2ff",
+    "date": "2026-01-04",
+    "name": "Laci",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 2,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_568389f50aa19_19b4d718932",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_40e97f01e2ed68_19b99a08560",
+    "date": "2026-01-07",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_c9b37b233bdb5_19b4dbb80eb",
+        "qty": 3,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_2ff9b502a78a2_19b4e18a6e7",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_8627b37a811548_19b9a290306",
+    "date": "2026-01-07",
+    "name": "Laci",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_568389f50aa19_19b4d718932",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_a41151327044c_19ba098ec0a",
+    "date": "2026-01-08",
+    "name": "Laci",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_f93b7eb924ed1_19b4e156422",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_b63f8a99691e48_19ba3a468fd",
+    "date": "2026-01-09",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_cdf4d9a12f296_19b4e11ef4e",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_b685daebd397a8_19ba415b771",
+    "date": "2026-01-09",
+    "name": "B. Zsolt Munktársa",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_2ff9b502a78a2_19b4e18a6e7",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_699e760fd0ae98_19ba830ed27",
+    "date": "2026-01-10",
+    "name": "B. Roli Munkatársa",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_f93b7eb924ed1_19b4e156422",
+        "qty": 2,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_a226775793a478_19bb43a9985",
+    "date": "2026-01-12",
+    "name": "E. Viktor",
+    "payment": "Utalva",
+    "items": [
+      {
+        "productId": "p_f93b7eb924ed1_19b4e156422",
+        "qty": 2,
+        "unitPrice": 5000
+      }
+    ]
+  },
+  {
+    "id": "s_8554969e8ae7b_19bdd5ad631",
+    "date": "2026-01-03",
+    "name": "Laci",
+    "payment": "3-án fizeette",
+    "items": [
+      {
+        "productId": "p_bb90038d7199d8_19b4e1762ba",
+        "qty": 2,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_1792d36d15abe_19be73543c8",
+    "date": "2026-01-22",
+    "name": "Szebi(dc)",
+    "payment": "Foxpost Előre",
+    "items": [
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 3,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_0837e89cb9fe58_19beb60855c",
+    "date": "2026-01-23",
+    "name": "Márk (nem dc)",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_2f00c3c2316bf8_19beb6148ea",
+    "date": "2026-01-23",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_e266312b1546b_19bef08036c",
+    "date": "2026-01-23",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_98a8a605f7a7d_19bf004e076",
+    "date": "2026-01-24",
+    "name": "B. Roli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_868455b3d0e02_19bf164e913",
+    "date": "2026-01-24",
+    "name": "T. Dani",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_8a393a08657b48_19b6ad67348",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_bf6099d7dc4de_19bffd6c531",
+    "date": "2026-01-27",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_4b3ea070114908_19b5bc64622",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_9cf1f70f8f4fa8_19c0079367d",
+    "date": "2026-01-27",
+    "name": "S. Krisz",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 2,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_cee604713ccea8_19c0398eb6f",
+    "date": "2026-01-28",
+    "name": "Szabi",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_8899c25f039f48_19beb1d7e76",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_8a393a08657b48_19b6ad67348",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9903ad4fe7899_19c03d0d0dc",
+    "date": "2026-01-25",
+    "name": "B. Geri haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_34a7e4903b9468_19c1038ac64",
+    "date": "2026-01-30",
+    "name": "Niki",
+    "payment": "4db maradt neki",
+    "items": [
+      {
+        "productId": "p_f528825b171d1_19b5b6659bb",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_6100934be910e8_19c14b04f79",
+    "date": "2026-01-31",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_8899c25f039f48_19beb1d7e76",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_d371497b2fb1b_19c19678c58",
+    "date": "2026-02-01",
+    "name": "Laci",
+    "payment": "a garanciált 2 elfbe letudjuk",
+    "items": [
+      {
+        "productId": "p_bb90038d7199d8_19b4e1762ba",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_37734802e57eb8_19c1f727d8b",
+    "date": "2026-01-31",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_8899c25f039f48_19beb1d7e76",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_77751b5bed765_19c1f73ff98",
+    "date": "2026-02-02",
+    "name": "Tündi",
+    "payment": "fogalta",
+    "items": [
+      {
+        "productId": "p_8899c25f039f48_19beb1d7e76",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_bccec85f10d39_19c241442d1",
+    "date": "2026-02-03",
+    "name": "T. Dani",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_8a393a08657b48_19b6ad67348",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_57933baaefbb_19b5bc81e53",
+        "qty": 1,
+        "unitPrice": 7000
+      },
+      {
+        "productId": "p_4b3ea070114908_19b5bc64622",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_c80d3f5ee2cc7_19c3414df4a",
+    "date": "2026-02-06",
+    "name": "Márk (B. zsolt munkat.)",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_27f5bd691fa03_19b5b64ea4a",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_9902b3f8eb189_19c341565ab",
+    "date": "2026-02-06",
+    "name": "Márk tesója (B. zsolt munkat.)",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_27f5bd691fa03_19b5b64ea4a",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_5f486a574eec48_19c347d4cfa",
+    "date": "2026-02-06",
+    "name": "B. Geri",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_03214c6ae7b628_19c347ed854",
+    "date": "2026-02-06",
+    "name": "Niki",
+    "payment": "Ajándék",
+    "items": [
+      {
+        "productId": "p_6db677a6c8739_19b5bd13894",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_8c734413e222_19c3e4f0a6a",
+    "date": "2026-02-08",
+    "name": "B. Geri haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_6db677a6c8739_19b5bd13894",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_6fee3a3a05f498_19c4c4cd567",
+    "date": "2026-02-08",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_8b084c694c4ac_19bffc068b4",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_2cfeb82c21c7b8_19c4c4f793f",
+    "date": "2026-02-10",
+    "name": "Szebi(dc)",
+    "payment": "Garancia",
+    "items": [
+      {
+        "productId": "p_8b084c694c4ac_19bffc068b4",
+        "qty": 2,
+        "unitPrice": 7000
+      },
+      {
+        "productId": "p_4b3ea070114908_19b5bc64622",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_53c97a1372f3d_19c5e068f3f",
+    "date": "2026-02-14",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_27f5bd691fa03_19b5b64ea4a",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_8f1e2a6830613_19c5e167189",
+    "date": "2026-02-11",
+    "name": "E. Tamás & Viktor",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 2,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_ffc645ec0ef398_19b5b5ed5eb",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_4b3ea070114908_19b5bc64622",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_850fc60f64e7c8_19c5e19ca18",
+    "date": "2026-02-11",
+    "name": "Zoli B. munktarása",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_27f5bd691fa03_19b5b64ea4a",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_35b581c75a857_19c728a4f7a",
+    "date": "2026-02-18",
+    "name": "B. Roli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_989390eed78c8_19c7bfc74ff",
+    "date": "2026-02-20",
+    "name": "Erik",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_ffc645ec0ef398_19b5b5ed5eb",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_32b36b7aeab818_19c8004b6d3",
+    "date": "2026-02-21",
+    "name": "Szabi",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_de02ea933c21c_19c851c2c36",
+    "date": "2026-02-20",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 2,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9721e9af3fa528_19c86e61114",
+    "date": "2026-02-22",
+    "name": "T. Dani",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_34e152d1a9dce_19c8b33c508",
+    "date": "2026-02-23",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor TB: 696",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_04bcb951d2f2f_19c8a741b4e",
+        "qty": 1,
+        "unitPrice": 500
+      },
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_4fd9f9e6c87a8_19c9a4cca09",
+    "date": "2026-02-26",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_aa784295ab0228_19c9b11bd0e",
+    "date": "2026-02-26",
+    "name": "Szabi",
+    "payment": "Vásárláskor(haverja)",
+    "items": [
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_12eb80e3d15ee8_19c9ff9de0a",
+    "date": "2026-02-27",
+    "name": "Szabi tesója",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_34d9fa7172c62_19caaced5d9",
+    "date": "2026-03-01",
+    "name": "B. Geri haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9dbbc9172534e8_19caeb0ea4f",
+    "date": "2026-03-02",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_ab91cdc2c1b1b_19cb512e024",
+    "date": "2026-03-02",
+    "name": "Niki",
+    "payment": "3 darab maradt neki (vap az a munkatársáé, fizetve másnap -)",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_91055a9de76e18_19b5b67c25f",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_7935e06f79fcd8_19cb514ca5e",
+    "date": "2026-03-03",
+    "name": "B. Zs munk. Zoli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_7de60a56fee0d8_19cae6f3ed7",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_15a18fd7e0c88_19cbdaabea3",
+    "date": "2026-03-05",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor 13-mas Ákié",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9b1e10c51280b_19cbeac31ed",
+    "date": "2026-03-05",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_1fa3e7f81b1d48_19cbf1e61d1",
+    "date": "2026-03-05",
+    "name": "B. Roli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_f711f17c5fdd3_19b6a7bed1f",
+        "qty": 1,
+        "unitPrice": 4000
+      }
+    ]
+  },
+  {
+    "id": "s_eb68a89be80ae_19cc4851a4a",
+    "date": "2026-03-06",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor (5-ös anyué)",
+    "items": [
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_4895703c991ba8_19cae9ce8a4",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_0695b20c6ed14_19cc7f44a70",
+    "date": "2026-03-07",
+    "name": "Szabi",
+    "payment": "Vásárláskor (13-mas Ákié)",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_f711f17c5fdd3_19b6a7bed1f",
+        "qty": 1,
+        "unitPrice": 4000
+      }
+    ]
+  },
+  {
+    "id": "s_37ef6c7723d5e8_19cc99d8a20",
+    "date": "2026-03-07",
+    "name": "E. Tamás haverja",
+    "payment": "Vásárláskor (7-es anyué)",
+    "items": [
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_91055a9de76e18_19b5b67c25f",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_228e363df0cf88_19cd39726a3",
+    "date": "2026-03-09",
+    "name": "B. Geri haverja",
+    "payment": "Vásárláskor (Ákié (Geri 1/10) )",
+    "items": [
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_a68fbf136a4f68_19cd7fc0725",
+    "date": "2026-03-10",
+    "name": "E. Viktor",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_f9c6408983a49_19cd88bb8d4",
+    "date": "2026-03-10",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_91055a9de76e18_19b5b67c25f",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_c62ea06e48fe38_19cd88ce786",
+    "date": "2026-03-10",
+    "name": "Balázs",
+    "payment": "Vásárláskor (12-es anyué)",
+    "items": [
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_a1c5cfa5daa02_19cdcd5cda9",
+    "date": "2026-03-11",
+    "name": "B. Zs Munk. Zoli (11-es Ákié)",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_a64f4c674fd5c8_19ce39a08ed",
+    "date": "2026-03-12",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor (Anyué)",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9e6fab2473802_19ce3ec0f21",
+    "date": "2026-02-24",
+    "name": "B. Zs munkatársai",
+    "payment": "Hitelre ( Fizetve: 03.10 és 03.12-án  )",
+    "items": [
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_cbda7cd534fd2_19cebbcd798",
+    "date": "2026-03-14",
+    "name": "B. Roli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_96e473e02863_19b6a6106ac",
+        "qty": 1,
+        "unitPrice": 5000
+      }
+    ]
+  },
+  {
+    "id": "s_fc53a76880b32_19cf7ef4718",
+    "date": "2026-03-16",
+    "name": "Szabi",
+    "payment": "Vásárláskor (2db ákié)",
+    "items": [
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 2,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7de60a56fee0d8_19cae6f3ed7",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_d01cb3d9f784b8_19cf7efa274",
+    "date": "2026-03-16",
+    "name": "Szabi",
+    "payment": "Vásárláskor (2db anyué)",
+    "items": [
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 3,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_375470a827d5b8_19cfc63aeb3",
+    "date": "2026-03-17",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_0b0caf39ccc8_19c7b06f9d2",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_6e3f02c8819ae_19cfcae52a3",
+    "date": "2026-03-17",
+    "name": "Szabi",
+    "payment": "Vásárláskor (8-as ákié, 13-mas anyué)",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_441538bc936fa_19be641e8b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_8ee171d2764fa8_19cfd34fa60",
+    "date": "2026-03-17",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor (1db anyué)",
+    "items": [
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 3,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_b9dd670be522c_19cfdb623a1",
+    "date": "2026-03-17",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_bdf2876c776fe_19cae8d647b",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_d328065564d3b8_19d017cdec0",
+    "date": "2026-03-18",
+    "name": "T. Dani",
+    "payment": "Aznap",
+    "items": [
+      {
+        "productId": "p_d44a935527ac98_19b5b68e535",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_ffc645ec0ef398_19b5b5ed5eb",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_41bb974ae315_19d0673143b",
+    "date": "2026-03-19",
+    "name": "E. Tamás haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_ffc645ec0ef398_19b5b5ed5eb",
+        "qty": 1,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_7de60a56fee0d8_19cae6f3ed7",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_df1acbf563015_19d06e7fd26",
+    "date": "2026-03-19",
+    "name": "Szabi",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_03568182a15ac_19c7ae3aa7d",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_ac9029423d9e68_19d07d1adbe",
+    "date": "2026-03-19",
+    "name": "S. Krisz haverja",
+    "payment": "Vásárláskor (4-es & 12-es ákié)",
+    "items": [
+      {
+        "productId": "p_dff7056a3eded8_19cae7977fb",
+        "qty": 2,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_9a4ffd82fd8378_19d07d1c33d",
+    "date": "2026-03-19",
+    "name": "S. Krisz haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_f528825b171d1_19b5b6659bb",
+        "qty": 1,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_2b25fd2f064ff_19d07dd90cd",
+    "date": "2026-03-19",
+    "name": "Saját",
+    "payment": "- dátum nem valid",
+    "items": [
+      {
+        "productId": "p_cd734ed84b46d_19b5bc23e59",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_096f2a13559108_19d0c0a3f84",
+    "date": "2026-03-20",
+    "name": "T. Dani",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_a95bd28cbac82_19d11cd2f6e",
+    "date": "2026-03-21",
+    "name": "B. Zs Tündinek",
+    "payment": "Aznap, utalva",
+    "items": [
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_cc2668f9d96a28_19d1646a1b1",
+    "date": "2026-03-22",
+    "name": "E. Tamás haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_ffc645ec0ef398_19b5b5ed5eb",
+        "qty": 2,
+        "unitPrice": 6000
+      }
+    ]
+  },
+  {
+    "id": "s_f04e8351bc0b38_19d25fbf4fb",
+    "date": "2026-03-25",
+    "name": "Szabi tesója",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_f93b7eb924ed1_19b4e156422",
+        "qty": 1,
+        "unitPrice": 5000
+      },
+      {
+        "productId": "p_4b3ea070114908_19b5bc64622",
+        "qty": 3,
+        "unitPrice": 7000
+      },
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 2,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_57933baaefbb_19b5bc81e53",
+        "qty": 1,
+        "unitPrice": 7000
+      }
+    ]
+  },
+  {
+    "id": "s_05d7626aed49d_19d266502dc",
+    "date": "2026-03-25",
+    "name": "E. Tamás haverja",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_877e9db696bbf_19d2a3b6af3",
+    "date": "2026-03-26",
+    "name": "E. Viktor & Balázs (V-nek 1k-val megyek)",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 2,
+        "unitPrice": 6000
+      },
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_1c44f4d9d89b28_19d2f11a84a",
+    "date": "2026-03-27",
+    "name": "Saját",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_9842bfea4d24c_19b5b637a59",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_ec2ebe8e793358_19d2f127b56",
+    "date": "2026-03-27",
+    "name": "Áki",
+    "payment": "-",
+    "items": [
+      {
+        "productId": "p_57933baaefbb_19b5bc81e53",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_1f58c00d13be38_19d3023e54b",
+    "date": "2026-03-27",
+    "name": "Szabi",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_f2d637aa519118_19d3390a7e7",
+    "date": "2026-03-27",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 2,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_befbeb75a696a_19d344464f4",
+    "date": "2026-03-28",
+    "name": "Szabi",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_5aaf6d03437c8_19cae96fb2e",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_7e90788f76589_19b6adc49b6",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_5f82e5eb144a58_19d353d4c3b",
+    "date": "2026-03-28",
+    "name": "B. Roli",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_dbabdaabe1f648_19d3a0adbd8",
+    "date": "2026-03-29",
+    "name": "Áki",
+    "payment": "Sajátjából",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_81909e3d929628_19c7af58890",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_4f4efd0510951_19b6ae36cba",
+        "qty": 1,
+        "unitPrice": 0
+      },
+      {
+        "productId": "p_5aaf6d03437c8_19cae96fb2e",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_b47256af1c1d48_19d3a531e92",
+    "date": "2026-03-29",
+    "name": "Niki",
+    "payment": "2 darab maradt neki",
+    "items": [
+      {
+        "productId": "p_3eab9151a584a_19b5bd5a4a7",
+        "qty": 1,
+        "unitPrice": 0
+      }
+    ]
+  },
+  {
+    "id": "s_31eec989a3de78_19d3eae6932",
+    "date": "2026-03-30",
+    "name": "E. Tamás külde, Laci haverja xd",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_0b0caf39ccc8_19c7b06f9d2",
+        "qty": 1,
+        "unitPrice": 5000
+      },
+      {
+        "productId": "p_f93b7eb924ed1_19b4e156422",
+        "qty": 1,
+        "unitPrice": 5000
+      },
+      {
+        "productId": "p_96e473e02863_19b6a6106ac",
+        "qty": 1,
+        "unitPrice": 5000
+      }
+    ]
+  },
+  {
+    "id": "s_230ab29a583df_19d3fad74ca",
+    "date": "2026-03-30",
+    "name": "S. Krisz haverja",
+    "payment": "Vásárláskor (9-es anyué)",
+    "items": [
+      {
+        "productId": "p_4895703c991ba8_19cae9ce8a4",
+        "qty": 2,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_a52ce38bb9b78_19cae8202a0",
+        "qty": 1,
+        "unitPrice": 6500
+      },
+      {
+        "productId": "p_b862159bc3f608_19beb0c6380",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  },
+  {
+    "id": "s_088436d9f8a17_19d4039393b",
+    "date": "2026-03-30",
+    "name": "E. Tamás",
+    "payment": "Vásárláskor",
+    "items": [
+      {
+        "productId": "p_d1c0df1b50542_19c7aee39b0",
+        "qty": 1,
+        "unitPrice": 6500
+      }
+    ]
+  }
+]
